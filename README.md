@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @3194703513
+- 👀 I’m interested in java,html,css,js,vue...
+- 🌱 I’m currently learning 前端,后端,软件开发,大数据,互联网IT+
+- 💞️ I’m 个人站点[官网](https://rjku.gitee.io)
+- 📫 How to reach me [客服页面](https://rjku.gitee.io/kf)
