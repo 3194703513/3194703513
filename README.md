@@ -1,4 +1,5 @@
-### 哈喽 你好啊 👋
-
-![About me](https://github-readme-stats.vercel.app/api?username=imsyy&show_icons=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsyy&layout=compact)
+- 👋 Hi, I’m @3194703513
+- 👀 I’m interested in java,html,css,js,vue...
+- 🌱 I’m currently learning 前端,后端,软件开发,大数据,互联网IT+
+- 💞️ I’m 个人站点[官网](https://rjku.gitee.io)
+- 📫 How to reach me [客服页面](https://rjku.gitee.io/kf)
